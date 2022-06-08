@@ -6,4 +6,5 @@ include 'deposite-service'
 include 'gateway'
 include 'notification-service'
 include 'registry'
+include 'deposite-service'
 
